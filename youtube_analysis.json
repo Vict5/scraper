@@ -1,0 +1,559 @@
+[
+  {
+    "post": {
+      "title": "YouTube",
+      "post_url": "https://old.reddit.com/r/youtube/"
+    },
+    "classification": {
+      "scores": {
+        "question": 0.6936699748039246,
+        "discussion": 0.6051402688026428,
+        "praise": 0.41818472743034363,
+        "news": 0.35230711102485657,
+        "complaint": 0.10914185643196106
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "YouTube",
+      "post_url": "https://old.reddit.com/user/youtube/"
+    },
+    "classification": {
+      "scores": {
+        "question": 0.6936699748039246,
+        "discussion": 0.6051402688026428,
+        "praise": 0.41818472743034363,
+        "news": 0.35230711102485657,
+        "complaint": 0.10914185643196106
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "YouTubeMusic",
+      "post_url": "https://old.reddit.com/r/YoutubeMusic/"
+    },
+    "classification": {
+      "scores": {
+        "praise": 0.5416394472122192,
+        "question": 0.010035797022283077,
+        "news": 0.002459891140460968,
+        "discussion": 0.001646161312237382,
+        "complaint": 0.0006643545348197222
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "Goodbyeyoutubepremium",
+      "excerpt": "Been a monthly user since 2019, sad to see another price increase but everything is just getting worse, cannot take it anymore mortis",
+      "post_url": "https://old.reddit.com/r/youtube/comments/1t621i3/goodbye_youtube_premium/",
+      "author": "Best-Charge-9513"
+    },
+    "classification": {
+      "scores": {
+        "complaint": 0.984916090965271,
+        "news": 0.6607652306556702,
+        "discussion": 0.6598572731018066,
+        "question": 0.569092869758606,
+        "praise": 0.007460531312972307
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "negative": 0.6757,
+        "positive": 0.32430000000000003
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "Wtfyoutube???",
+      "post_url": "https://old.reddit.com/r/youtubeindia/comments/1r0hw3n/wtf_youtube/",
+      "author": "Wooden-Specific-904"
+    },
+    "classification": {
+      "scores": {
+        "question": 0.9795935750007629,
+        "complaint": 0.8755056858062744,
+        "news": 0.512564480304718,
+        "discussion": 0.3495262861251831,
+        "praise": 0.00025350821670144796
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "WTFYoutube!?",
+      "excerpt": "ZachDFilm's video has been \"reimagined\" way too many times. This is an epidemic that keeps getting worse and worse. Youtube is somehow getting closer and closer to Sora update by update.",
+      "post_url": "https://old.reddit.com/r/youtube/comments/1t8h8sr/wtf_youtube/",
+      "author": "The_Real_PMK12"
+    },
+    "classification": {
+      "scores": {
+        "question": 0.9561261534690857,
+        "complaint": 0.904250979423523,
+        "news": 0.6202071905136108,
+        "discussion": 0.3031172454357147,
+        "praise": 0.0011724403593689203
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "negative": 0.7574,
+        "positive": 0.24260000000000004
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "GoodbyeYouTube",
+      "excerpt": "I deleted your ad infested app. I would rather sit in silence than watch an ad every two minutes. Bye.",
+      "post_url": "https://old.reddit.com/r/youtube/comments/1t8tkz1/goodbye_youtube/",
+      "author": "communal-nuisance"
+    },
+    "classification": {
+      "scores": {
+        "complaint": 0.9822877049446106,
+        "news": 0.9556053280830383,
+        "discussion": 0.7107020616531372,
+        "question": 0.6453803181648254,
+        "praise": 0.004803326912224293
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "HowYouTubehas changed:",
+      "post_url": "https://old.reddit.com/r/youtube/comments/1pz45zu/how_youtube_has_changed/",
+      "author": "RobloxEvents"
+    },
+    "classification": {
+      "scores": {
+        "news": 0.9614485502243042,
+        "discussion": 0.7309669256210327,
+        "question": 0.6516565084457397,
+        "complaint": 0.04971630498766899,
+        "praise": 0.03858208283782005
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "YOUTUBE!?",
+      "excerpt": "mod non lo togliete pls",
+      "post_url": "https://old.reddit.com/r/Italianscamads/comments/1od8fb5/youtube/",
+      "author": "matic-01"
+    },
+    "classification": {
+      "scores": {
+        "complaint": 0.9819756150245667,
+        "question": 0.9666292071342468,
+        "news": 0.8129284381866455,
+        "discussion": 0.7163113355636597,
+        "praise": 0.5150303840637207
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.1511,
+        "negative": 0.8489
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "Ayo,youtube?",
+      "excerpt": "remember when they deleted forsens channel for nothing now they allow this LULE",
+      "post_url": "https://old.reddit.com/r/forsen/comments/1ls7gac/ayo_youtube/",
+      "author": "Effective_Fox_5793"
+    },
+    "classification": {
+      "scores": {
+        "question": 0.9726884365081787,
+        "complaint": 0.9610425233840942,
+        "news": 0.6908480525016785,
+        "discussion": 0.5285619497299194,
+        "praise": 0.00827125646173954
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "negative": 0.1695,
+        "positive": 0.8305
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "Meta andYouTubefound liable in social media addiction trial",
+      "post_url": "https://old.reddit.com/r/news/comments/1s3hi18/meta_and_youtube_found_liable_in_social_media/",
+      "author": "SteamerTheBeemer"
+    },
+    "classification": {
+      "scores": {
+        "question": 0.712896466255188,
+        "news": 0.6532376408576965,
+        "discussion": 0.4264066815376282,
+        "complaint": 0.11844959855079651,
+        "praise": 0.0019146385602653027
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "YouTubewent down. 8:00pm.",
+      "excerpt": "Wonder when it will be back up...",
+      "post_url": "https://old.reddit.com/r/youtube/comments/1r7onh1/youtube_went_down_800pm/",
+      "author": "DesignerLime268"
+    },
+    "classification": {
+      "scores": {
+        "news": 0.9106618762016296,
+        "question": 0.9027642011642456,
+        "complaint": 0.598445475101471,
+        "discussion": 0.46300098299980164,
+        "praise": 0.08399200439453125
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "South Korea jails American YouTuber for public nuisance",
+      "post_url": "https://old.reddit.com/r/news/comments/1sm6nnt/south_korea_jails_american_youtuber_for_public/",
+      "author": "Hrmbee"
+    },
+    "classification": {
+      "scores": {
+        "news": 0.9023736715316772,
+        "question": 0.6070750951766968,
+        "complaint": 0.601963222026825,
+        "discussion": 0.22175441682338715,
+        "praise": 0.00017165200551971793
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "You can no longer haveYouTuberunning in the background.",
+      "excerpt": "As of 29th of January you can no longer have YouTube running in the background via many browsers as that is now a premium feature. With that I don't even have that one last reason to listen to YouTube. We are now officially paying for everything that was free a couple of years ago and the reason isn't greedy management, but you people who keep paying for premium and the such.",
+      "post_url": "https://old.reddit.com/r/youtube/comments/1qqt8tb/you_can_no_longer_have_youtube_running_in_the/",
+      "author": "Titan_Prometeus"
+    },
+    "classification": {
+      "scores": {
+        "news": 0.9964017868041992,
+        "question": 0.9004042148590088,
+        "complaint": 0.8897466659545898,
+        "discussion": 0.7033288478851318,
+        "praise": 0.04620423540472984
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.1106,
+        "negative": 0.8894
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "YouTuber vs Actual Heavyweight Boxer",
+      "post_url": "https://old.reddit.com/r/nextfuckinglevel/comments/1pr6aco/youtuber_vs_actual_heavyweight_boxer/",
+      "author": "sergemeister"
+    },
+    "classification": {
+      "scores": {
+        "news": 0.6109078526496887,
+        "question": 0.3251209855079651,
+        "discussion": 0.07301875203847885,
+        "complaint": 0.015752242878079414,
+        "praise": 0.005896344780921936
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "YouTubeServer Down - Never Seen This Before",
+      "excerpt": "Never seen a YouTube outage before",
+      "post_url": "https://old.reddit.com/r/youtube/comments/1r7oo3y/youtube_server_down_never_seen_this_before/",
+      "author": "ghxstcouver"
+    },
+    "classification": {
+      "scores": {
+        "news": 0.9991844296455383,
+        "question": 0.9640964865684509,
+        "complaint": 0.9400849342346191,
+        "discussion": 0.9371694326400757,
+        "praise": 0.022955847904086113
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "NIce tryyoutube",
+      "post_url": "https://old.reddit.com/r/Piracy/comments/1tauyr0/nice_try_youtube/",
+      "author": "FelineSnorter"
+    },
+    "classification": {
+      "scores": {
+        "question": 0.5067629814147949,
+        "news": 0.27543970942497253,
+        "discussion": 0.15321999788284302,
+        "praise": 0.05032946914434433,
+        "complaint": 0.03462308645248413
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.4215,
+        "negative": 0.5785
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "YoutubeMonopoly",
+      "post_url": "https://old.reddit.com/r/memes/comments/1pyz6v3/youtube_monopoly/",
+      "author": "Warmduscher1876"
+    },
+    "classification": {
+      "scores": {
+        "discussion": 0.04467235505580902,
+        "praise": 0.03979853168129921,
+        "news": 0.009267404675483704,
+        "question": 0.0027387994341552258,
+        "complaint": 0.0008251104736700654
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "I blameYouTube",
+      "post_url": "https://old.reddit.com/r/SipsTea/comments/1oynsou/i_blame_youtube/",
+      "author": "shitferbranes"
+    },
+    "classification": {
+      "scores": {
+        "complaint": 0.635441780090332,
+        "question": 0.2490818202495575,
+        "discussion": 0.21015937626361847,
+        "news": 0.1395949274301529,
+        "praise": 0.00018004259618464857
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "Danish Youtuber Playing RDR2 at 4FPS daily",
+      "excerpt": "A Danish youtuber has been  playing Red Dead Redemption 2 at 4 FPS every day.",
+      "post_url": "https://old.reddit.com/r/pcmasterrace/comments/1siebo2/danish_youtuber_playing_rdr2_at_4fps_daily/",
+      "author": "chusskaptaan"
+    },
+    "classification": {
+      "scores": {
+        "news": 0.9853099584579468,
+        "complaint": 0.8069589734077454,
+        "question": 0.6457251310348511,
+        "praise": 0.6129164099693298,
+        "discussion": 0.41615137457847595
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "negative": 0.4019,
+        "positive": 0.5981000000000001
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "Youth wish cancer on youtuber",
+      "post_url": "https://old.reddit.com/r/TikTokCringe/comments/1sefqmu/youth_wish_cancer_on_youtuber/",
+      "author": "kamSidd"
+    },
+    "classification": {
+      "scores": {
+        "news": 0.6930605173110962,
+        "complaint": 0.6509729623794556,
+        "discussion": 0.3226498067378998,
+        "question": 0.29720744490623474,
+        "praise": 0.0011034940835088491
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "negative": 0.4019,
+        "positive": 0.5981000000000001
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "YouTubeTerminates Clavicular’s Channels for “Severe or Repeated Violations”",
+      "post_url": "https://old.reddit.com/r/Fauxmoi/comments/1su1swu/youtube_terminates_claviculars_channels_for/",
+      "author": "mlg1981"
+    },
+    "classification": {
+      "scores": {
+        "news": 0.7785326242446899,
+        "complaint": 0.6787788271903992,
+        "question": 0.41220059990882874,
+        "discussion": 0.04041212052106857,
+        "praise": 0.00010378197475802153
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "Never useYoutubeor never use TikTok ever again",
+      "excerpt": "This post contains content not supported on old Reddit.Click here to view the full post",
+      "post_url": "https://old.reddit.com/r/BunnyTrials/comments/1tgqwfe/never_use_youtube_or_never_use_tiktok_ever_again/",
+      "author": "AgitatedDoughnut7858"
+    },
+    "classification": {
+      "scores": {
+        "complaint": 0.9535881876945496,
+        "question": 0.8194925785064697,
+        "news": 0.7504518032073975,
+        "discussion": 0.7201991081237793,
+        "praise": 0.049948692321777344
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "negative": 0.2411,
+        "positive": 0.7589
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "What the fuckYouTube",
+      "post_url": "https://old.reddit.com/r/whenthe/comments/1rhyt0s/what_the_fuck_youtube/",
+      "author": "Critical_Mountain851"
+    },
+    "classification": {
+      "scores": {
+        "question": 0.9815892577171326,
+        "complaint": 0.918581485748291,
+        "discussion": 0.9126567840576172,
+        "news": 0.6103644371032715,
+        "praise": 0.0011432258179411292
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "positive": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "post": {
+      "title": "Youtubeis fighting a losing battle",
+      "post_url": "https://old.reddit.com/r/memes/comments/1p2rrfo/youtube_is_fighting_a_losing_battle/",
+      "author": "Cosmicking04"
+    },
+    "classification": {
+      "scores": {
+        "complaint": 0.8631023168563843,
+        "question": 0.357524573802948,
+        "discussion": 0.22058284282684326,
+        "news": 0.08936255425214767,
+        "praise": 0.00025580194778740406
+      }
+    },
+    "sentiment": {
+      "scores": {
+        "negative": 0.7717,
+        "positive": 0.22829999999999995
+      }
+    }
+  }
+]
